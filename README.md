@@ -18,6 +18,14 @@ This CodeSandbox template provides a complete C development environment for 42 s
 
 To use this template:
 
+#### Video Example
+
+Here you can watch a video with the installation process
+
+<a href="https://www.awesomescreenshot.com/video/34496715?key=b03c9bd0fcf7e4e870b1ab1d5cbef271" target="_blank">View video</a>
+
+#### Follow the instructions
+
 1. Visit the template on <a href="https://codesandbox.io/p/devbox/42-starter-xlxxs8" target="_blank">CodeSandbox.io 42-Starter</a>
 2. Click the "Fork" button in the top right corner
 3. Wait for the environment to be created (this may take a few moments)
