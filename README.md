@@ -21,7 +21,8 @@ To use this template:
 1. Visit the template on <a href="https://codesandbox.io/p/devbox/42-starter-xlxxs8" target="_blank">CodeSandbox.io 42-Starter</a>
 2. Click the "Fork" button in the top right corner
 3. Wait for the environment to be created (this may take a few moments)
-4. Start coding!
+4. Restar your devbox to run de tasks.
+5. Start coding!
 
 Note: Forking creates your own copy of the template that you can modify and save for future use.
 
