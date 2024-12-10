@@ -31,7 +31,7 @@
   ],
   "tasks": {
     "start": {
-      "name": "start",
+      "name": "Start Apache Server",
       "command": "php -S localhost:8080",
       "runAtStart": true,
       "preview": {
