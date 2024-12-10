@@ -66,8 +66,8 @@ Note: This is not for C development, but to facilitate easy file sharing and dow
 
 ## 🔧 Usage
 
-1. The environment comes pre-configured with all necessary C development tools
-2. Use `gcc` to compile your C programs
+1. The environment comes pre-configured with all necessary C development tools. You need run `bash` in the terminal to use all the services.
+2. Use `cc` to compile your C programs
 3. Use `make` for project compilation if you have a Makefile
 4. Use `norminette` command to check code style (42 school standard)
 5. Use `francinette` or `paco` commands to run tests specific to 42 projects.
