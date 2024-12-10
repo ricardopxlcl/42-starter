@@ -8,7 +8,7 @@ This CodeSandbox template provides a complete C development environment for 42 s
 
 ### Primary Development Tools (C-focused)
 
-- GCC compiler
+- GCC/CC compiler
 - Make build automation tool
 - Clang compiler
 - Debugging tools (valgrind, gdb)
@@ -27,6 +27,11 @@ This CodeSandbox template provides a complete C development environment for 42 s
 
 - Python3-pip
 - Python virtual environment support
+
+### To-do
+
+- Install extension 42 header
+- Install 42 formatter
 
 ## 🛠️ Included Setup
 
@@ -55,16 +60,6 @@ The template automatically installs and configures:
 4. File sharing utilities:
    - PHP
    - Apache web server
-
-## 🏃‍♂️ Development and Sharing Server
-
-The template includes a PHP development server for simple file sharing:
-
-- Host: localhost
-- Port: 8080
-- Auto-start enabled
-
-Note: This is not for C development, but to facilitate easy file sharing and downloading.
 
 ## 📥 Installation
 
@@ -98,7 +93,7 @@ Note: Forking creates your own copy of the template that you can modify and save
 cc main.c -Wall -Wextra -Werror && ./a.out
 ```
 
-## 🤿 Test Folders
+## 🤿 Test functions
 
 We have provided two test folders to help you validate your code with Norminette and Francinette:
 
@@ -134,6 +129,16 @@ We have provided two test folders to help you validate your code with Norminette
      ricardopxlcl ➜ cd /project/workspace/test/ft_putchar_norminette
      ricardopxlcl ➜ norminette
    ```
+
+## 🏃‍♂️ Development and Sharing Server
+
+The template includes a PHP development server for simple file sharing:
+
+- Host: localhost
+- Port: 8080
+- Auto-start enabled
+
+Note: This is not for C development, but to facilitate easy file sharing and downloading.
 
 ## 🤝 Contributing
 
