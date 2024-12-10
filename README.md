@@ -65,7 +65,7 @@ The template automatically installs and configures:
 
 To use this template:
 
-1. Visit the template on [CodeSandbox.io 42-Starter](https://codesandbox.io/p/github/ricardopxlcl/42-starter)
+1. Visit the template on [CodeSandbox.io 42-Starter](https://codesandbox.io/p/devbox/42-starter-xlxxs8)
 2. Click the "Fork" button in the top right corner
 3. Wait for the environment to be created (this may take a few moments)
 4. Start coding!
