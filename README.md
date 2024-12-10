@@ -14,58 +14,11 @@ This CodeSandbox template provides a complete C development environment for 42 s
 - Debugging tools (valgrind, gdb)
 - Git for version control
 
-### 42 School Specific Tools
-
-- Norminette code style checker
-- Francinette (nicknamed 'paco') testing framework
-
-### Additional Utilities
-
-- PHP and Apache for simple file sharing and downloading
-
-### Python Tools (for supporting utilities)
-
-- Python3-pip
-- Python virtual environment support
-
-### To-do
-
-- Install extension 42 header
-- Install 42 formatter
-
-## 🛠️ Included Setup
-
-The template automatically installs and configures:
-
-1. Essential C development tools:
-
-   - build-essential
-   - gcc
-   - make
-   - clang
-   - valgrind
-   - gdb
-   - git
-
-2. 42 School specific tools:
-
-   - norminette
-   - Francinette (with aliases 'francinette' and 'paco')
-
-3. Python tools (for supporting utilities):
-
-   - python3-pip
-   - python3-venv
-
-4. File sharing utilities:
-   - PHP
-   - Apache web server
-
 ## 📥 Installation
 
 To use this template:
 
-1. Visit the template on [CodeSandbox.io 42-Starter](https://codesandbox.io/p/devbox/42-starter-xlxxs8)
+1. Visit the template on <a href="https://codesandbox.io/p/devbox/42-starter-xlxxs8" target="_blank">CodeSandbox.io 42-Starter</a>
 2. Click the "Fork" button in the top right corner
 3. Wait for the environment to be created (this may take a few moments)
 4. Start coding!
@@ -129,6 +82,53 @@ We have provided two test folders to help you validate your code with Norminette
      ricardopxlcl ➜ cd /project/workspace/test/ft_putchar_norminette
      ricardopxlcl ➜ norminette
    ```
+
+### 42 School Specific Tools
+
+- Norminette code style checker
+- Francinette (nicknamed 'paco') testing framework
+
+### Additional Utilities
+
+- PHP and Apache for simple file sharing and downloading
+
+### Python Tools (for supporting utilities)
+
+- Python3-pip
+- Python virtual environment support
+
+### To-do
+
+- Install extension 42 header
+- Install 42 formatter
+
+## 🛠️ Included Setup
+
+The template automatically installs and configures:
+
+1. Essential C development tools:
+
+   - build-essential
+   - gcc
+   - make
+   - clang
+   - valgrind
+   - gdb
+   - git
+
+2. 42 School specific tools:
+
+   - norminette
+   - Francinette (with aliases 'francinette' and 'paco')
+
+3. Python tools (for supporting utilities):
+
+   - python3-pip
+   - python3-venv
+
+4. File sharing utilities:
+   - PHP
+   - Apache web server
 
 ## 🏃‍♂️ Development and Sharing Server
 
