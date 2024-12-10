@@ -10,28 +10,32 @@
     },
     {
       "name": "Install VENV",
-      "command": "apt-get install python3-venv -y"
+      "command": "sudo apt-get install python3-venv -y"
+    },
+    {
+      "name": "Install Norminette",
+      "command": "python3 -m pip install norminette"
     },
     {
       "name": "Install Francinette",
       "command": "curl -fsSL https://raw.github.com/xicodomingues/francinette/master/bin/install.sh | bash"
     },
     {
-      "name": "Install Alias",
-      "command": "alias francinette=\"$HOME\"/francinette/tester.sh"
+      "name": "Install Alias francinette",
+      "command": "echo \"alias francinette=\\\"$HOME/francinette/tester.sh\\\"\" >> $HOME/.bashrc"
     },
     {
-      "name": "Install Alias 2",
-      "command": "alias paco=\"$HOME\"/francinette/tester.sh"
+      "name": "Install Alias paco",
+      "command": "echo \"alias paco=\\\"$HOME/francinette/tester.sh\\\"\" >> $HOME/.bashrc"
     },
     {
-      "name": "Install Norminette",
-      "command": "python3 -m pip install norminette"
+      "name": "Source bashrc",
+      "command": "source $HOME/.bashrc"
     }
   ],
   "tasks": {
     "start": {
-      "name": "Start Apache Server",
+      "name": "Start PHP Server",
       "command": "php -S localhost:8080",
       "runAtStart": true,
       "preview": {
