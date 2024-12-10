@@ -1,7 +1,7 @@
 {
   "title": "42 Starter",
   "description": "Quickly get started with C-PHP-Apache server using this starter",
-  "iconUrl": "https://raw.githubusercontent.com/codesandbox/sandbox-templates/main/php/.codesandbox/icon.png",
-  "tags": ["42","php", "backend"],
+  "iconUrl": "https://profile.intra.42.fr/favicon.ico",
+  "tags": ["42","php", "backend", "c", "piscine"],
   "published": true
 }
