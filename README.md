@@ -147,3 +147,7 @@ Feel free to submit issues and enhancement requests!
 ## 📝 License
 
 This template is provided as-is under the MIT license.
+
+## 👥 Contributors
+
+[![Username](https://github.com/ricardopxlcl.png?size=70)](https://github.com/ricardopxlcl)
